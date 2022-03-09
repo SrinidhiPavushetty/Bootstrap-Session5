@@ -7,7 +7,7 @@ body{
     flex-wrap: wrap;
 }
 nav{
-    background-color: white; !important
+    background-color: white; 
 }
 .nav-link-active{
     text-decoration: none;
