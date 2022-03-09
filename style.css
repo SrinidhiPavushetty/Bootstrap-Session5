@@ -2,6 +2,10 @@ body{
     display: block;
     overflow: hidden;
 }
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
 nav{
     background-color: white; !important
 }
@@ -10,5 +14,12 @@ nav{
     font-size: 18px;
 }
 .btn{
+    font-size: 18px;
+}
+.main{
+    margin: 3rem;
+    padding:3rem;
+}
+.page1 p{
     font-size: 18px;
 }
